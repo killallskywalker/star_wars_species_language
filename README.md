@@ -1,4 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). This project for demonstration purpose on react + Third party api + deploym to s3 . 
 
 ## Available Scripts
 
@@ -17,3 +17,6 @@ You will also see any lint errors in the console.
 http://star-wars-translator.s3-website-ap-southeast-1.amazonaws.com/
 
 
+## API Used
+
+https://funtranslations.com/api/yoda
